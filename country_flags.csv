@@ -1,0 +1,180 @@
+country,nationality,countryId
+Afghanistan,Afghan,1
+Albania,Albanian,2
+Algeria,Algerian,3
+Andorra,Andorran,4
+Angola,Angolan,5
+Argentina,Argentinian,6
+Armenia,Armenian,7
+Australia,Australian,8
+Austria,Austrian,9
+Azerbaijan,Azerbaijani,10
+Bahamas,Bahamian,11
+Bahrain,Bahraini,12
+Bangladesh,Bangladeshi,13
+Barbados,Barbadian,14
+Belarus,Belarusian or Belarusan,15
+Belgium,Belgian,16
+Belize,Belizean,17
+Benin,Beninese,18
+Bhutan,Bhutanese,19
+Bolivia,Bolivian,20
+Bosnia-and-Herzegovina,Bosnian,21
+Botswana,Botswanan,22
+Brazil,Brazilian,23
+Britain,British,24
+Brunei,Bruneian,25
+Bulgaria,Bulgarian,26
+Burkina,Burkinese,27
+Myanmar,Burmese,28
+Burundi,Burundian,29
+Cambodia,Cambodian,30
+Cameroon,Cameroonian,31
+Canada,Canadian,32
+Cape Verde,Cape Verdean,33
+Chad,Chadian,34
+Chile,Chilean,35
+China,Chinese,36
+Colombia,Colombian,37
+Congo,Congolese,38
+Costa Rica,Costa Rican,39
+Croatia,Croat or Croatian,40
+Cuba,Cuban,41
+Cyprus,Cypriot,42
+Czech Republic,Czech,43
+Denmark,Danish,44
+Djibouti,Djiboutian,45
+Dominica,Dominican,46
+Dominican Republic,Dominican,47
+Ecuador,Ecuadorean,48
+Egypt,Egyptian,49
+El Salvador,Salvadorean,50
+England,English,51
+Eritrea,Eritrean,52
+Estonia,Estonian,53
+Ethiopia,Ethiopian,54
+Fiji,Fijian,55
+Finland,Finnish,56
+France,French,57
+Gabon,Gabonese,58
+"Gambia, the",Gambian,59
+Georgia,Georgian,60
+Germany,German,61
+Ghana,Ghanaian,62
+Greece,Greek,63
+Grenada,Grenadian,64
+Guatemala,Guatemalan,65
+Guinea,Guinean,66
+Guyana,Guyanese,67
+Haiti,Haitian,68
+Holland (also Netherlands),Dutch,69
+Honduras,Honduran,70
+Hungary,Hungarian,71
+Iceland,Icelandic,72
+India,Indian,73
+Indonesia,Indonesian,74
+Iran,Iranian,75
+Iraq,Iraqi,76
+"Ireland, Republic of",Irish,77
+Italy,Italian,78
+Jamaica,Jamaican,79
+Japan,Japanese,80
+Jordan,Jordanian,81
+Kazakhstan,Kazakh,82
+Kenya,Kenyan,83
+Kuwait,Kuwaiti,84
+Laos,Laotian,85
+Latvia,Latvian,86
+Lebanon,Lebanese,87
+Liberia,Liberian,88
+Libya,Libyan,89
+Liechtenstein,-,90
+Lithuania,Lithuanian,91
+Luxembourg,-,92
+Madagascar,Malagasy or Madagascan,93
+Malawi,Malawian,94
+Malaysia,Malaysian,95
+Maldives,Maldivian,96
+Mali,Malian,97
+Malta,Maltese,98
+Mauritania,Mauritanian,99
+Mauritius,Mauritian,100
+Mexico,Mexican,101
+Moldova,Moldovan,102
+Monaco,Monégasque or Monacan,103
+Mongolia,Mongolian,104
+Montenegro,Montenegrin,105
+Morocco,Moroccan,106
+Mozambique,Mozambican,107
+Myanmar see Burma,-,108
+Namibia,Namibian,109
+Nepal,Nepalese,110
+"Netherlands, the (see Holland)",Dutch,111
+New Zealand,"New Zealand (used attributively only, as in New Zealand butter but not He is New Zealand)",112
+Nicaragua,Nicaraguan,113
+Niger,Nigerien,114
+Nigeria,Nigerian,115
+North Korea,North Korean,116
+Norway,Norwegian,117
+Oman,Omani,118
+Pakistan,Pakistani,119
+Panama,Panamanian,120
+Papua New Guinea,Papua New Guinean or Guinean,121
+Paraguay,Paraguayan,122
+Peru,Peruvian,123
+Philippines,Philippine or Filipino,124
+Poland,Polish,125
+Portugal,Portuguese,126
+Qatar,Qatari,127
+Romania,Romanian,128
+Russia,Russian,129
+Rwanda,Rwandan,130
+Saudi Arabia,Saudi Arabian or Saudi,131
+Scotland,Scottish,132
+Senegal,Senegalese,133
+Serbia,Serb or Serbian,134
+"Seychelles, the",Seychellois,135
+Sierra Leone,Sierra Leonian,136
+Singapore,Singaporean,137
+Slovakia,Slovak,138
+Slovenia,Slovene or Slovenian,139
+Solomon Islands,-,140
+Somalia,Somali,141
+South Africa,South African,142
+South Korea,South Korean,143
+Spain,Spanish,144
+Sri Lanka,Sri Lankan,145
+Sudan,Sudanese,146
+Suriname,Surinamese,147
+Swaziland,Swazi,148
+Sweden,Swedish,149
+Switzerland,Swiss,150
+Syria,Syrian,151
+Taiwan,Taiwanese,152
+Tajikistan,Tajik or Tadjik,153
+Tanzania,Tanzanian,154
+Thailand,Thai,155
+Togo,Togolese,156
+Trinidad and Tobago,Trinidadian Tobagan Tobagonian,157
+Tunisia,Tunisian,158
+Turkey,Turkish,159
+Turkmenistan,Turkmen or Turkoman,160
+Tuvalu,Tuvaluan,161
+Uganda,Ugandan,162
+Ukraine,Ukrainian,163
+United Arab Emirates,"UAE or Emirates (used attributively only, as in UAE buildings, Emirates holidays but not He is UAE, I am Emirates) or Emirati",164
+United Kingdom,"UK (used attributively only, as in UK time but not He is UK) or British",165
+United States of America,"US (used attributively only, as in US aggression but not He is US)",166
+Uruguay,Uruguayan,167
+Uzbekistan,Uzbek,168
+Vanuatu,Vanuatuan,169
+Vatican City,-,170
+Venezuela,Venezuelan,171
+Vietnam,Vietnamese,172
+Wales,Welsh,173
+Western Samoa,Western Samoan,174
+Yemen,Yemeni,175
+Yugoslavia,Yugoslav,176
+Zaire,Zaïrean,177
+Zambia,Zambian,178
+Zimbabwe,Zimbabwean,179
