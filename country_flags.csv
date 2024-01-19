@@ -1,5 +1,5 @@
 country,nationality,countryId,urlCountry
-Afghanistan,Afghan,1,https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-1-300x200.jpg
+Afghanistan,Afghan,1,-
 Albania,Albanian,2,https://www.countryflags.com/wp-content/uploads/albania-albanian-flag-png-square-large.png
 Algeria,Algerian,3,https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-3-300x200.jpg
 Andorra,Andorran,4,https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-4-scaled.jpg
@@ -162,7 +162,7 @@ Uganda,Ugandan,162,https://www.countryflags.com/wp-content/uploads/uganda-flag-p
 Ukraine,Ukrainian,163,https://www.countryflags.com/wp-content/uploads/ukraine-flag-png-large-300x200.png
 United Arab Emirates,"UAE or Emirates (used attributively only, as in UAE buildings, Emirates holidays but not He is UAE, I am Emirates) or Emirati",164,https://www.countryflags.com/wp-content/uploads/united-arab-emirates-flag-png-large.png
 United Kingdom,British,165,https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png
-United States of America,American,166,-
+United States The,American,166,https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png
 Uruguay,Uruguayan,167,https://www.countryflags.com/wp-content/uploads/uruguay-flag-png-large-300x200.png
 Uzbekistan,Uzbek,168,https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png
 Vanuatu,Vanuatuan,169,-
@@ -176,4 +176,4 @@ Yugoslavia,Yugoslav,176,-
 Zaire,Zaïrean,177,-
 Zambia,Zambian,178,https://www.countryflags.com/wp-content/uploads/zambia-flag-png-large-300x200.png
 Zimbabwe,Zimbabwean,179,https://www.countryflags.com/wp-content/uploads/zimbabwe-flag-png-large.png
-Rhodesia,Rhodesian,180,-
+Rhodesia,Rhodesian,180,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/255px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png
