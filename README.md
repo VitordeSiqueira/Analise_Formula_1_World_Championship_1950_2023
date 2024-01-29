@@ -23,19 +23,19 @@ O dataset utilizado foi obtido do Kaggle e está disponível [neste link](https:
 ### Visualização/Dashboard
 
 ####  Pilotos
-<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/drivers.jpg" width="700" height="200" style="float: left; clear: both; margin-right: 190px;"/>
+<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/drivers.jpg" width="700" height="400" style="float: left; clear: both; margin-right: 190px;"/>
 
 
 #### Construtores
-<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/construtores.jpg" width="700" height="200" style="float: left; clear: both; margin-right: 1290px;"/>
+<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/construtores.jpg" width="700" height="400" style="float: left; clear: both; margin-right: 1290px;"/>
 
 
 #### Circuitos
-<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/circuitos.jpg" width="700" height="200" style="float: left; clear: both; margin-right: 1290px;"/>
+<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/circuitos.jpg" width="700" height="400" style="float: left; clear: both; margin-right: 1290px;"/>
 
 
 #### Início
-<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/home.jpg" width="700" height="200" style="float: left; clear: both; margin-right: 1290px;"/>
+<img src="https://raw.githubusercontent.com/VitordeSiqueira/Formula-_1_World_Championship_Dataset/main/home.jpg" width="700" height="400" style="float: left; clear: both; margin-right: 1290px;"/>
 
 
 ### Recursos Principais
